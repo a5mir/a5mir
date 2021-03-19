@@ -1,11 +1,11 @@
 ## Hi 👋, I'm Asmir  
 
-**Connect with me**
-<div>
+**Connect with me**  
 <a href="https://www.linkedin.com/in/asmir-hadzic-689a45159/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</div>
+
+<br />
 
 **Languages and Tools**
 <div>
@@ -22,10 +22,8 @@
 
   <br />
   
-**Latest finished project** 🏆 **AtletaDatabase**
-<div>
+**Latest finished project** 🏆 **AtletaDatabase**  
 <a href="https://youtu.be/lZNMb8RMARI">
   <img alt="Youtube" src="https://img.shields.io/badge/PROJECT_SHOWCASE%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
-</div>
 
