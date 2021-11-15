@@ -13,7 +13,7 @@
 Software solution developed specifically for an Athletic Club Novi Grad. It serves as a central sport managment system.
 The software is written in Java language, using single-storage SQLiteDB engine and JavaFX for User interface.
 
-*Demo*
+*Showcase*
 https://www.youtube.com/watch?v=lZNMb8RMARI&list=UUj_A0lfc4FeDLV_9Pnv9EpQ&index=2
 
 *Code*
