@@ -21,7 +21,7 @@ This repository is currently private.
 
 **AF Calculator**
 
-App developed to help me at my current job and also used as a learning point for App development. I usually get several offers, whit different charges and in different currencies, which I have to calculate and choose the best offer. Also it helps me to calculate chargable weight of the cargo ((WxLxHcm)/6000). 
+App developed to help me at my current job and also used as a learning point for App development. I usually get several offers whit different charges and in different currencies which I have to calculate and choose the best offer. Also it helps me to calculate chargable weight of the cargo ((WxLxHcm)/6000). 
 The app is written in Dart/Flutter. 
 _Tested only on several Android phones/never tried it on iOS device._
 
